@@ -1,0 +1,15 @@
+E:\sizze1veG\c++\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe.config
+E:\sizze1veG\c++\StudentInformation\StudentInformation\bin\Debug\StudentInformation.exe
+E:\sizze1veG\c++\StudentInformation\StudentInformation\bin\Debug\StudentInformation.pdb
+E:\sizze1veG\c++\StudentInformation\StudentInformation\bin\Debug\MetroFramework.dll
+E:\sizze1veG\c++\StudentInformation\StudentInformation\bin\Debug\MetroFramework.Fonts.dll
+E:\sizze1veG\c++\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.AssemblyReference.cache
+E:\sizze1veG\c++\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.SuggestedBindingRedirects.cache
+E:\sizze1veG\c++\StudentInformation\StudentInformation\obj\Debug\StudentInformation.Properties.Resources.resources
+E:\sizze1veG\c++\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.GenerateResource.cache
+E:\sizze1veG\c++\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CoreCompileInputs.cache
+E:\sizze1veG\c++\StudentInformation\StudentInformation\obj\Debug\StudentInformation.csproj.CopyComplete
+E:\sizze1veG\c++\StudentInformation\StudentInformation\obj\Debug\StudentInformation.exe
+E:\sizze1veG\c++\StudentInformation\StudentInformation\obj\Debug\StudentInformation.pdb
+E:\sizze1veG\c++\StudentInformation\StudentInformation\obj\Debug\StudentInformation.MainForm.resources
+E:\sizze1veG\c++\StudentInformation\StudentInformation\obj\Debug\StudentInformation.InfoForm.resources
